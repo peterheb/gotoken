@@ -1,0 +1,71 @@
+# test cases adapted from https://github.com/dmitry-brazhenko/SharpToken (MIT lic)
+
+a
+1
+a a
+hello
+Go is a great programming language for building apps.
+split tests: x's x't x'm x'd x'S x'T x'M x'D x'll x'Ll x'lL x'LL
+split tests: x're x'rE x'Re x'RE x've x'vE x'Ve x'VE
+These spaces "                         " are one token in p50k.
+Numbers: 1, 23, 456, 7890, 12345, 678,901, $234,567.89
+Unicode numerals: ٥٤ ٣٢١ ¼ ½ ① ❷ ⓷ 𝟜 𝟓 ६ ७ ८९
+The number 20 is not ２０, but they look similar.
+Hello, World! How are you today? 🌍
+こんにちは、世界！お元気ですか？
+Hola, mundo! ¿Cómo estás hoy? 🇪🇸
+Привет, мир! Как дела?
+안녕하세요, 세상! 오늘 기분이 어때요? 🇰🇷
+Bonjour, le monde ! Comment ça va aujourd'hui ? 🇫🇷
+The quick brown fox jumps over 13 lazy dogs. 😺
+1234567890!@#$%^&*()-=_+[]{};:'",.<>?/|`~ 🎉
+El área de un triángulo es (base * altura) / 2.
+Здравствуйте, это мой первый раз здесь. Что мне делать?
+હેલો, વિશ્વ! તમે આજે કેમ છો? 🇮🇳
+ความรักและการเป็นกันเองเป็นสิ่งสำคัญที่สุดในโลก 🇹🇭
+Python vs Java: Which programming language should you learn first?
+A journey of a thousand miles begins with a single step. - Lao Tzu
+Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. 🇩🇪
+יש לי כמה שאלות בנוגע לפרויקט החדש שלך. 🇮🇱
+Det är en vacker dag i Sverige. 🇸🇪
+A ∀ x (P(x) → Q(x)) ∧ (∃x P(x)) → ∃x Q(x)
+O Brasil é o maior país da América do Sul. 🇧🇷
+L'amore è una forza potente che unisce le persone. 🇮🇹
+Είναι μια ηλιόλουστη ημέρα στην Ελλάδα. 🇬🇷
+Teslim tarihi yaklaşıyor, projeyi zamanında bitirmemiz gerekiyor. 🇹🇷
+Det finnes ingen bedre tid enn nå for å starte noe nytt. 🇳🇴
+Aanvaard de uitdagingen van het leven met moed en vastberadenheid. 🇳🇱
+Chào mừng bạn đến với thế giới của lập trình. 🇻🇳
+Dlaczego warto uczyć się języków obcych? 🇵🇱
+E = mc², uma equação famosa na física. 🇵🇹
+你今天遇到什么有趣的事情了吗？🇨🇳
+Nå er det tid for å feire med familie og venner. 🇳🇴
+Þetta er góður dagur til að læra eitthvað nýtt. 🇮🇸
+გამარჯობა! როგორ ხართ დღეს? 🇬🇪
+Mā te whakawhiti kōrero e whai hua ai tātou. 🇳🇿
+Это был незабываемый опыт, который я буду помнить всегда.
+Διαβάζοντας βιβλία, εμπλουτίζουμε τον εαυτό μας με γνώσεις.
+A számítástechnika világa tele van izgalmas lehetőségekkel. 🇭🇺
+Vždy je dobré mít plán B, pokud něco nevyjde. 🇨🇿
+Dragostea e un sentiment minunat care ne unește pe toți. 🇷🇴
+دیکھو، آسمان میں کتنی تارے ہیں! 🇵🇰
+Nenda polepole na ujifunze kila siku. 🇹🇿
+Каква е твоята любима храна? 🇧🇬
+Sträva alltid efter att bli en bättre version av dig själv.
+Філософія - це наука про знання. 🇺🇦
+Το πρόγραμμα αυτό είναι πολύ ενδιαφέρον. 🇬🇷
+^$%#*@!&)(_+=}{|:;"?><,~`'-./][
+4gH@!0sT*#(9^%$[x{}j+|Yz6;Q]~8
+wNb)I<>#:i^P]*cR8ytUx1Q`6O@z/
+ÄÜö¿¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿
+ƒšŠŒŽƒšŠŒŽƒšŠŒŽƒšŠŒŽƒšŠŒŽƒšŠŒŽ
+5ħÅŸēýïūē$%#^*()_+{[ö&!@#?>|,.<>
+1B4t#%&*()_+dF5g^hJk7LmN0pQrS<>?
+¬§±²³µ¶·¹ºª«»¦©¯°±!@#$%^&*()_+
+8mR5*w7^a$!F(0%#J9@X6vZ1)nU3]_Y/
+😊😀😁😂🤣😃😄😅😆😉😊😋😎😍😘😗😙😚☺️🙂🤗🤔
+🤨😐😑😶🙄😏😣😥😮🤐😯😪😫😴😌🤓😛😜😝🤤
+😒😓😔😕🙃🤑😲😷🤒🤕🤢🤧😈👿👹👺💀☠️
+😾😿🙀😽😼😻🙈🙉🙊👶👦👧👨👩👴👵👨‍⚕️👩‍⚕️
+🌞🌝🌚🌛🌜🌙⭐️🌟💫✨🔥💥☄️🌈☀️🌤️⛅️🌥️
+🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑
