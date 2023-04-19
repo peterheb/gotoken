@@ -249,7 +249,7 @@ $ ./bench -encoding cl100k_base
 
 ## Version History
 
-- **v0.9.0** (2023-04-17)
+- **v0.9.1** (2023-04-19)
   - Initial pre-release version.
 
 ## Acknowledgements
