@@ -1,6 +1,6 @@
 # Gotoken <!-- omit from toc -->
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/phebert/gotoken)](https://pkg.go.dev/github.com/phebert/gotoken)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/peterheb/gotoken)](https://pkg.go.dev/github.com/peterheb/gotoken)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Gotoken is a pure-Go implementation of the Python library
